@@ -1,0 +1,16 @@
+#Übung um mit Listen umzugehen zu lernen
+names = ['pascal', 'andy', 'francesco', 'thanu']
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])
+print("\nund jetzt mit Anfagsbuchstabe gross:")
+print(names[0].title())
+print(names[1].title())
+print(names[2].title())
+print(names[3].title())
+print("\nmit Nachricht an den Kollegen")
+print(f"Wie war dein Wochende {names[0].title()}?")
+print(f"Wie war dein Wochende {names[1].title()}?")
+print(f"Wie war dein Wochende {names[2].title()}?")
+print(f"Wie war dein Wochende {names[3].title()}?")

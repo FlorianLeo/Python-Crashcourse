@@ -1,0 +1,3 @@
+In Python you can - Satz 1.
+In Python you can - Satz 2.
+In Python you can - Satz 3.
